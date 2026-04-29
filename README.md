@@ -5,11 +5,9 @@ Meta Quest Sideloading Software
 
 VR CyberDeck is a cross-platform desktop deck for Meta Quest Devices
 
-1. Managing
+1. Manage
 
-2. Sideloading
-
-3. Uploading
+2. Sideload
 
 It connects to a community-run game library
 
