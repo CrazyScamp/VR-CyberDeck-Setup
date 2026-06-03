@@ -28,7 +28,20 @@ href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
 
   ---
 
-
-## Download Links
-
+##  ⏬ DOWNLOAD LINKS
+<p>
 https://github.com/KaladinDMP/VR-CyberDeck/releases/tag/v1.2.9
+
+---
+
+## LOCATING UNKNOWN SOURCES
+
+Unknown Sources is where you find your sideloaded games.
+Click below for instructions 
+
+<p>
+  <a 
+href="https://github.com/CrazyScamp/Finding-Unknown-Sources-Quest">
+<img src="https://img.shields.io/badge/Locating Unknown Sources-blue?style=for-the-badge">
+  </a>
+  </p>
