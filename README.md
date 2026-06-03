@@ -20,5 +20,4 @@ for you, and wraps the whole thing in a neon terminal
 
 ## Download Links
 
-https://github.com/KaladinDMP/VR-CyberDeck
-
+https://github.com/KaladinDMP/VR-CyberDeck/releases/tag/v1.2.9
