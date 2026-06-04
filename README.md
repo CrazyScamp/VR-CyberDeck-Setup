@@ -1,5 +1,5 @@
 ## What is VR-CyberDeck
-Meta Quest Sideloading Software
+Built by Delicious Meat Pop (KaladinDMP)
 
 ---
 
