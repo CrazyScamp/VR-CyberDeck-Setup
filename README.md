@@ -1,4 +1,4 @@
-## VR-CyberDeck-Setup
+## What is VR-CyberDeck
 Meta Quest Sideloading Software
 
 ---
@@ -14,6 +14,21 @@ It connects to a community-run game library
 Once Installed browse a huge Database of Games.
 It Downloads and Installs the selected game
 for you, and wraps the whole thing in a neon terminal
+
+---
+
+## VR-CyberDeck Setup
+
+1. Install the build for your OS
+
+2. Plug in your Quest via USB (data-capable cable)
+
+3. Allow USB Debugging on the headset
+
+4. Browse the library and hit download
+
+
+That's it. The bundled server config means there's nothing to configure on first run.
 
 ---
 
