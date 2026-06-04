@@ -1,5 +1,5 @@
 ## What is VR-CyberDeck
-Built by Delicious Meat Pop (KaladinDMP)
+Built by (KaladinDMP)
 
 ---
 
