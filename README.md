@@ -38,8 +38,8 @@ That's it. The bundled server config means there's nothing to configure on first
 Before you start! if you haven't already you need to get your headset and PC ready for sideloading
 <p>
   <a 
-href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
-<img src="https://img.shields.io/badge/Headset / PC Setup Guide-blue?style=for-the-badge">
+href="https://github.com/KaladinDMP/VR-CyberDeck/releases/tag/v1.2.9">
+<img src="https://img.shields.io/badge/VR CyberDeck GitHub Download Page-blue?style=for-the-badge">
   </a>
   </p>
 
@@ -47,7 +47,11 @@ href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
 
 ##  ⏬ DOWNLOAD LINKS
 <p>
-https://github.com/KaladinDMP/VR-CyberDeck/releases/tag/v1.2.9
+  <a 
+href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
+<img src="https://img.shields.io/badge/Headset / PC Setup Guide-blue?style=for-the-badge">
+  </a>
+  </p>
 
 ---
 
