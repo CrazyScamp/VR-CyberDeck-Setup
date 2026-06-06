@@ -53,6 +53,8 @@ href="https://github.com/KaladinDMP/VR-CyberDeck/releases">
   </a>
   </p>
 
+  ---
+
 ## LOCATING UNKNOWN SOURCES
 
 Unknown Sources is where you find your sideloaded games.
