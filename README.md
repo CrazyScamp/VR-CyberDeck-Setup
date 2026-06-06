@@ -19,21 +19,6 @@ for you, and wraps the whole thing in a neon terminal
 
 ---
 
-## VR-CyberDeck Setup
-
-1. Install the build for your OS
-
-2. Plug in your Quest via USB (data-capable cable)
-
-3. Allow USB Debugging on the headset
-
-4. Browse the library and hit download
-
-
-That's it. The bundled server config means there's nothing to configure on first run.
-
----
-
 ## ⚠️ IMPORTANT
 Before you start! if you haven't already you need to get your headset and PC ready for sideloading
 <p>
@@ -53,6 +38,18 @@ href="https://github.com/KaladinDMP/VR-CyberDeck/releases">
   </a>
   </p>
 
+## VR-CyberDeck Setup
+
+1. Install the build for your OS
+
+2. Plug in your Quest via USB (data-capable cable)
+
+3. Allow USB Debugging on the headset
+
+4. Browse the library and hit download
+
+
+That's it. The bundled server config means there's nothing to configure on first run.
 
 ---
 
