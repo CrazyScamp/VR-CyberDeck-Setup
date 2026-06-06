@@ -30,14 +30,6 @@ href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
 
 ---
 
-##  ⏬ DOWNLOAD LINKS
-<p>
-  <a 
-href="https://github.com/KaladinDMP/VR-CyberDeck/releases">
-<img src="https://img.shields.io/badge/VR CyberDeck GitHub Download Page-blue?style=for-the-badge">
-  </a>
-  </p>
-
 ## VR-CyberDeck Setup
 
 1. Install the build for your OS
@@ -52,6 +44,14 @@ href="https://github.com/KaladinDMP/VR-CyberDeck/releases">
 That's it. The bundled server config means there's nothing to configure on first run.
 
 ---
+
+##  ⏬ DOWNLOAD LINKS
+<p>
+  <a 
+href="https://github.com/KaladinDMP/VR-CyberDeck/releases">
+<img src="https://img.shields.io/badge/VR CyberDeck GitHub Download Page-blue?style=for-the-badge">
+  </a>
+  </p>
 
 ## LOCATING UNKNOWN SOURCES
 
