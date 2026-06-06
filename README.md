@@ -38,7 +38,11 @@ href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
 
 3. Allow USB Debugging on the headset
 
-4. Browse the library and hit download
+4. Run VR CyberDeck
+
+5. If you recieve the Error message (see below)
+
+6. Browse the library and hit download
 
 
 That's it. The bundled server config means there's nothing to configure on first run.
