@@ -55,7 +55,7 @@ href="https://github.com/KaladinDMP/VR-CyberDeck/releases">
 
   ---
   
-## ISP ERROR MESSAGE
+## GAMELIST SYNC FAILED / TLS ERROR MESSAGE
 
 ISP or Router Interference with HTTPS.
 VR CyberDeck now recognizes the error and gives you a clear fix instead of a raw rclone message — pointing you towards DNS-over-HTTPS or a VPN with a direct link to a setup guide.
