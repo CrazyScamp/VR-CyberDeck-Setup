@@ -54,6 +54,17 @@ href="https://github.com/KaladinDMP/VR-CyberDeck/releases">
   </p>
 
   ---
+  
+## ISP ERROR MESSAGE
+
+ISP or Router Interference with HTTPS.
+VR CyberDeck now recognizes the error and gives you a clear fix instead of a raw rclone message — pointing you towards DNS-over-HTTPS or a VPN with a direct link to a setup guide.
+<br>
+<br>
+
+<img width="1478" height="870" alt="IMG-20260606-WA0013" src="https://github.com/user-attachments/assets/ea2075b2-8a9d-4c49-b6d0-6327222aec2e" />
+
+  ---
 
 ## LOCATING UNKNOWN SOURCES
 
