@@ -58,7 +58,7 @@ Before using VR CyberDeck, your headset and PC must be configured for sideloadin
 
 4. Launch VR CyberDeck.
 
-5. If you receive a connection error message (shown [below](https://github.com/CrazyScamp/VR-CyberDeck-Setup/edit/main/README.md#gamelist-sync-failed--tls-error)), follow the instructions provided. If you do not receive this error, continue to the next step.
+5. If you receive a connection error message (shown [below](https://github.com/CrazyScamp/VR-CyberDeck-Setup#gamelist-sync-failed--tls-error)), follow the instructions provided. If you do not receive this error, continue to the next step.
 
 6. Browse the library and download any game you want.
 
