@@ -4,7 +4,7 @@
 
 
 ## What is VR CyberDeck ?
-Built by [DMP](github.com/kaladindmp)
+Built by [DMP](https://pages.github.com/kaladindmp)
 
 VR CyberDeck is a cross-platform desktop application for Meta Quest devices.
 > **VR CyberDeck is a desktop application.**
